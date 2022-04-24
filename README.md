@@ -1,1 +1,1 @@
-# WebfejlesztesBeadando
+# Web programozas beadando
